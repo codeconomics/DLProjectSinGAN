@@ -6,6 +6,7 @@ import torch.optim as optim
 import torch.utils.data
 import math
 import matplotlib.pyplot as plt
+from tqdm import tqdm_notebook
 from SinGAN.imresize import imresize
 
 def train(opt,Gs,Zs,reals,NoiseAmp):
