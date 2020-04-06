@@ -1,6 +1,6 @@
 # DLProjectSinGAN
 
-**Yihao Li, Zelin Li, Aiden Zhang
+**Yihao Li, Zelin Li, Aiden Zhang**
 
 ## Files
 
