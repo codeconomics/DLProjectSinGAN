@@ -4,11 +4,12 @@
 
 ## Files
 
-[Evaluation.ipynb](https://github.com/codeconomics/DLProjectSinGAN/blob/master/ResNet.ipynb) Notebook file to evaluate data augmentation techniques 
+[torch_SinGAN.py](https://github.com/codeconomics/DLProjectSinGAN/blob/master/torch_SinGAN.py) py file of torch implementation of SinGAN
 
-[MNIST_SinGAN.py](https://github.com/codeconomics/DLProjectSinGAN/blob/master/MNIST_SinGAN.py) Interface to use official SinGAN to do data augmentation
+[torch_SinGAN.ipynd](https://github.com/codeconomics/DLProjectSinGAN/blob/master/torch_SinGAN.py) Notebook file of torch implementation of SinGAN
 
-[SinGAN Reproduction Tensorflow.ipynb](https://github.com/codeconomics/DLProjectSinGAN/blob/master/TF%20ver./GAN%20basic%20Reproduction%20Tensorflow.ipynb) Tensorflow reproduction of SinGAN in process. This file is a building block of SinGAN. We will finish this version of reproduction soon.
+[Evaluation.ipynb](https://github.com/codeconomics/DLProjectSinGAN/blob/master/ResNet.ipynb) Notebook file to tune architecture hyperparameters and evaluate data augmentation techniques
 
-[SinGAN](https://github.com/codeconomics/SinGAN) Our modifications to the official SinGAN is reflected in this forked repo
+[data_generating.ipynb](https://github.com/codeconomics/DLProjectSinGAN/blob/master/data_generating.ipynb) Notebook file to create data files for training
 
+[BAGAN](https://github.com/codeconomics/BAGAN) Modified version of BAGAN for our evaluation as a baseline
