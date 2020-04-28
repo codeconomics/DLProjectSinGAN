@@ -8,7 +8,7 @@
 
 [torch_SinGAN.ipynd](https://github.com/codeconomics/DLProjectSinGAN/blob/master/torch_SinGAN.py) Notebook file of torch implementation of SinGAN
 
-[tensorflow_SinGAN.ipynb](hhttps://github.com/codeconomics/DLProjectSinGAN/blob/master/tensorflow_SinGAN.ipynb) Notebook file of our tensorflow implementation of SinGAN
+[tensorflow_SinGAN.ipynb](https://github.com/codeconomics/DLProjectSinGAN/blob/master/tensorflow_SinGAN.ipynb) Notebook file of our tensorflow implementation of SinGAN
 
 [Evaluation.ipynb](https://github.com/codeconomics/DLProjectSinGAN/blob/master/Evaluation.ipynb) Notebook file to tune architecture hyperparameters and evaluate data augmentation techniques
 
