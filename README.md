@@ -4,6 +4,8 @@
 
 ## Files
 
+[final_report.pdf](https://github.com/codeconomics/DLProjectSinGAN/blob/master/SinGAN%20Data%20Augmentation%20Approach%20in%20ExtremelyImbalanced%20Dataset%20for%20Small%20Images.pdf) The final report
+
 [torch_SinGAN.py](https://github.com/codeconomics/DLProjectSinGAN/blob/master/torch_SinGAN.py) py file of torch implementation of SinGAN
 
 [torch_SinGAN.ipynd](https://github.com/codeconomics/DLProjectSinGAN/blob/master/torch_SinGAN.py) Notebook file of torch implementation of SinGAN
